@@ -21,6 +21,7 @@
     "bcrypt": "^0.8.5",
     "body-parser": "^1.13.3",
     "bower": "^1.4.1",
+    "chalk": "^1.1.1",
     "connect-mongo": "^0.8.2",
     "connect-multiparty": "^2.0.0",
     "express": "^4.13.3",
@@ -28,18 +29,14 @@
     "gulp": "^3.9.0",
     "gulp-autoprefixer": "^2.3.1",
     "gulp-concat": "^2.6.0",
-    "gulp-connect": "^2.2.0",
     "gulp-jshint": "^1.11.2",
+    "gulp-livereload": "^3.8.0",
     "gulp-minify-css": "^1.2.0",
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^2.0.4",
     "gulp-sourcemaps": "^1.5.2",
     "gulp-uglify": "^1.2.0",
     "gulp-util": "^3.0.6",
-    "jasmine": "^2.3.1",
-    "karma-chrome-launcher": "^0.2.0",
-    "karma-jasmine": "^0.3.6",
-    "karma-requirejs": "^0.2.2",
     "lodash": "^3.10.1",
     "main-bower-files": "^2.9.0",
     "method-override": "^2.3.5",
@@ -51,10 +48,11 @@
     "passport-local": "^1.0.0",
     "q": "^1.4.1",
     "requirejs": "^2.1.20",
+    "tiny-lr": "^0.1.6",
     "underscore": "^1.8.3"
   },
+  "homepage": "https://github.com/leocreatini/angular-project-seed#readme",
   "bugs": {
     "url": "https://github.com/leocreatini/angular-project-seed/issues"
-  },
-  "homepage": "https://github.com/leocreatini/angular-project-seed#readme"
+  }
 }
